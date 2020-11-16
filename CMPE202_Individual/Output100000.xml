@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="cmpe202.StudentID_014604096.CardDetails">
+    <void property="cardNumber">
+     <string>5.41E+15</string>
+    </void>
+    <void property="cardType">
+     <string></string>
+    </void>
+    <void property="isError">
+     <string>Error</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="cmpe202.StudentID_014604096.CardDetails">
+    <void property="cardNumber">
+     <string>4.12E+12</string>
+    </void>
+    <void property="cardType">
+     <string></string>
+    </void>
+    <void property="isError">
+     <string>Error</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="cmpe202.StudentID_014604096.CardDetails">
+    <void property="cardNumber">
+     <string>3.41E+14</string>
+    </void>
+    <void property="cardType">
+     <string></string>
+    </void>
+    <void property="isError">
+     <string>Error</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="cmpe202.StudentID_014604096.CardDetails">
+    <void property="cardNumber">
+     <string>6.01E+15</string>
+    </void>
+    <void property="cardType">
+     <string></string>
+    </void>
+    <void property="isError">
+     <string>Error</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

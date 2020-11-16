@@ -1,0 +1,17 @@
+[ {
+  "cardNumber" : "5410000000000000",
+  "cardType" : "MasterCard",
+  "isError" : "No Error"
+}, {
+  "cardNumber" : "4120000000000",
+  "cardType" : "Visa",
+  "isError" : "No Error"
+}, {
+  "cardNumber" : "341000000000000",
+  "cardType" : "American Express",
+  "isError" : "No Error"
+}, {
+  "cardNumber" : "6010000000000000",
+  "cardType" : "",
+  "isError" : "Error"
+} ]
